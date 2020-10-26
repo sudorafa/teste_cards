@@ -1,7 +1,8 @@
-![](https://github.com/sudorafa/teste_cards/blob/main/lib/tools/gifs/ezgif.com-gif-maker.gif)
-![](https://github.com/sudorafa/teste_cards/blob/main/lib/tools/gifs/ezgif.com-gif-maker.gif)
-![](https://github.com/sudorafa/teste_cards/blob/main/lib/tools/gifs/ezgif.com-gif-maker.gif)
-![](https://github.com/sudorafa/teste_cards/blob/main/lib/tools/gifs/ezgif.com-gif-maker.gif)
+<img src="https://github.com/sudorafa/teste_cards/blob/main/lib/tools/gifs/ezgif.com-gif-maker.gif" width="350">  <img src="https://github.com/sudorafa/teste_cards/blob/main/lib/tools/gifs/ezgif.com-gif-maker (1).gif" width="350">
+
+<img src="https://github.com/sudorafa/teste_cards/blob/main/lib/tools/gifs/ezgif.com-gif-maker (2).gif" width="350">  <img src="https://github.com/sudorafa/teste_cards/blob/main/lib/tools/gifs/ezgif.com-gif-maker (3).gif" width="350">
+
+<img src="https://github.com/sudorafa/teste_cards/blob/main/lib/tools/gifs/ezgif.com-gif-maker (4).gif" width="350"> 
 
 # teste_cards
 
