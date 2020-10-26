@@ -1,3 +1,8 @@
+![](https://github.com/sudorafa/teste_cards/blob/main/lib/tools/gifs/ezgif.com-gif-maker.gif)
+![](https://github.com/sudorafa/teste_cards/blob/main/lib/tools/gifs/ezgif.com-gif-maker.gif)
+![](https://github.com/sudorafa/teste_cards/blob/main/lib/tools/gifs/ezgif.com-gif-maker.gif)
+![](https://github.com/sudorafa/teste_cards/blob/main/lib/tools/gifs/ezgif.com-gif-maker.gif)
+
 # teste_cards
 
 A new Flutter project.
