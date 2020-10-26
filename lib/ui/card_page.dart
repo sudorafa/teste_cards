@@ -28,14 +28,19 @@ class CardPage extends StatelessWidget {
           child: Container(
               padding: EdgeInsets.all(50.0),
               child: Column(children: [
-                Image.network(_cardData["imageUrl"] == null
-                    ? "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7GpbN3UDBr906iiXrTpK2veDQKZcDSbyvXQ&usqp=CAU"
-                    : _cardData["imageUrl"]),
-                Text(_cardData["text"],
-                    style: TextStyle(
-                      fontWeight: FontWeight.w100,
-                      color: Colors.white,
-                    )),
+                Padding(
+                    padding: EdgeInsets.all(30.0),
+                    child: Image.network(_cardData["imageUrl"] == null
+                        ? "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7GpbN3UDBr906iiXrTpK2veDQKZcDSbyvXQ&usqp=CAU"
+                        : _cardData["imageUrl"])),
+                Padding(
+                    padding: EdgeInsets.all(10.0),
+                    child: Text(_cardData["text"],
+                        textAlign: TextAlign.center,
+                        style: TextStyle(
+                          fontWeight: FontWeight.w800,
+                          color: Colors.white,
+                        ))),
                 Text(_cardData["type"],
                     style: TextStyle(
                       fontWeight: FontWeight.w400,

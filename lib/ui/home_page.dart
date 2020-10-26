@@ -150,6 +150,11 @@ class _HomePageState extends State<HomePage> {
                                     fontWeight: FontWeight.w100,
                                     color: Colors.white,
                                   )),
+                              for (var color in snapshot.data["cards"][index]
+                                  ["colors"])
+                                Text(color,
+                                    style:
+                                        TextStyle(fontWeight: FontWeight.w500))
                             ],
                           ),
                         ),
